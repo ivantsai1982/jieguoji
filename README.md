@@ -18,33 +18,49 @@ All the data in this repository has undergone rigorous validity checks to ensure
 
 By ensuring high-quality data, Jieguoji contributes to the improvement of large model training, enhancing the performance of models in handling a wide range of languages, particularly those underrepresented in mainstream NLP datasets.
 
+## Data Samples
+
+Due to the size of the dataset, only **sample data** is uploaded here for demonstration and testing purposes. If you require the **complete dataset** for your project or research, please follow the steps below to request access:
+
+### How to Access Full Dataset
+
+1. **Contact Us**: Please [open an issue](https://github.com/yourusername/your-repo-name/issues) or reach out to us via email at [your-email@example.com](mailto:your-email@example.com) to request access to the full dataset.
+
+2. **Verify Usage**: You may be asked to provide additional details about your use case or project to ensure that the data is being used for research and ethical purposes.
+
+3. **Download Link**: Once verified, we will provide a private link or an alternative method to download the full dataset.
+
+## Data Links
+
+To facilitate the access to the data, we've organized the download links for different datasets into categories. You can find the relevant links below:
+
+### 1. **Pretraining Data**
+   - **Small Language Data Sample 1**: [Google Drive Link](https://drive.google.com/yourlink1)
+   - **Small Language Data Sample 2**: [Google Drive Link](https://drive.google.com/yourlink2)
+   - **Small Language Data Sample 3**: [Google Drive Link](https://drive.google.com/yourlink3)
+
+### 2. **Large Model Training Data**
+   - **Training Data Set 1**: [Google Drive Link](https://drive.google.com/yourlink4)
+   - **Training Data Set 2**: [Google Drive Link](https://drive.google.com/yourlink5)
+   - **Training Data Set 3**: [Google Drive Link](https://drive.google.com/yourlink6)
+
+### 3. **Knowledge Base**
+   - **Knowledge Base Sample 1**: [Google Drive Link](https://drive.google.com/yourlink7)
+   - **Knowledge Base Sample 2**: [Google Drive Link](https://drive.google.com/yourlink8)
+
+> Note: Each link points to a sample data file. For access to the full dataset, please follow the instructions above to request access.
+
 ## Data Updates
 
 This dataset will be continuously updated with new data. We aim to keep improving the quality and relevance of the dataset, so users are encouraged to check regularly for new content. Contributions to the dataset are welcome and can be submitted via pull requests.
 
-## Data Content
-
-The dataset includes various resources that are crucial for training deep learning models, including:
-
-- Pre-training corpora
-- Knowledge bases for large model training
-- Linguistic data, focusing on small languages that are often underrepresented in mainstream NLP datasets.
-
-The data is curated from diverse sources and is intended to facilitate the development of AI models that can handle a broad range of languages, including those that lack extensive resources.
-
-## How to Use
-
-1. Clone the repository or download the dataset files from the repository.
-2. Integrate the data into your training pipeline or research project.
-3. Contribute improvements or new data through pull requests.
-
 ## Contributions
 
-Contributions to this repository are highly encouraged. If you have additional data or improvements to share, please fork the repository, make your changes, and submit a pull request. All contributions should comply with the CC BY 4.0 license.
+We do not accept contributions to this repository. The data and content provided are offered as-is, and we strongly encourage users to utilize the resources for their own projects, but modifications or additions to the dataset will not be considered. Please respect the terms of the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license for personal or commercial use.
 
 ## Contact
 
-For any questions or issues, feel free to open an issue in this repository or reach out via email.
+For any questions or issues, feel free to open an issue in this repository or reach out via email at [your-email@example.com](mailto:your-email@example.com).
 
 ---
 
